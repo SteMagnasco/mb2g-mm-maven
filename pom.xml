@@ -17,5 +17,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>web-api</module>
+        <module>converters</module>
     </modules>
 </project>
